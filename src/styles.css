@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.counter {
+  margin-bottom: 10px;
+}
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
